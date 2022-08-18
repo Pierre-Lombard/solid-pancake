@@ -43,7 +43,6 @@ a:hover{
     border-radius: 10px;
     border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
-
 .element{
     display: flex;
     flex-direction: column;
